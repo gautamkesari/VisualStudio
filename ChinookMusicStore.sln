@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChinookMusicStore.Web.AspNetCore", "src\ChinookMusicStore.Web.AspNetCore\ChinookMusicStore.Web.AspNetCore.csproj", "{E1414032-40D4-4668-BC65-11D14419218A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChinookMusicStore.API.AspNetCore", "src\ChinookMusicStore.API.AspNetCore\ChinookMusicStore.API.AspNetCore.csproj", "{D34AC687-F0AB-4599-AA7A-97B8736F6BC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1414032-40D4-4668-BC65-11D14419218A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1414032-40D4-4668-BC65-11D14419218A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1414032-40D4-4668-BC65-11D14419218A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1414032-40D4-4668-BC65-11D14419218A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D34AC687-F0AB-4599-AA7A-97B8736F6BC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D34AC687-F0AB-4599-AA7A-97B8736F6BC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D34AC687-F0AB-4599-AA7A-97B8736F6BC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D34AC687-F0AB-4599-AA7A-97B8736F6BC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC999DB5-B084-41CF-94EF-EE0D1AE0EB96}
+	EndGlobalSection
+EndGlobal
